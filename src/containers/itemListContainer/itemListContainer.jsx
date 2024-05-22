@@ -1,13 +1,3 @@
-// import React from "react"
-
-// const ItemListContainer =({greeting})=>{
-//     return(
-//         <h2>{greeting}</h2>
-//     )
-// }
-// export default ItemListContainer
-
-
 import React from "react"
 import { Card, List } from 'antd';
 import './itemListContainer.css'
