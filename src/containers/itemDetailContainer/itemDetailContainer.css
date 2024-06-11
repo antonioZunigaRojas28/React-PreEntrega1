@@ -1,0 +1,31 @@
+.card {
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    padding: 10px; 
+    width: 200px; 
+    text-align: center; 
+  }
+  
+  .card div {
+    margin-bottom: 5px; 
+  }
+  
+  .card img {
+    max-width: 100%; 
+    border-radius: 5px; 
+    margin-bottom: 10px; 
+  }
+
+  .btn-card {
+    background-color: #f15a46; 
+    color: white; 
+    border: none; 
+    padding: 8px 16px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+  }
+  
+  .btn-card:hover {
+    background-color: #912416; 
+  }
